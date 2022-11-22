@@ -15,6 +15,8 @@ Pandas, Jupyter Lab, PyVizlot, SciKit Learn, Numpy
 
 ## Project analysis and report
 
-Initial analysis with SMA short (4), and long windows (100) delivered the following results
+Basline modelling with 3mth DateOffSet and SMA short (4), and long windows (100) delivered the following results
+![Baseline - SVC Model Prediction](https://user-images.githubusercontent.com/110360757/203215440-6fd069ae-3498-4c31-abd3-884f02d94740.png)
+![Basline - Actual vs Strategy returns](https://user-images.githubusercontent.com/110360757/203215455-c435f4c8-f36b-40d3-9fcb-fb6d28c8b973.png)
 
 
